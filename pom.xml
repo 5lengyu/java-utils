@@ -218,7 +218,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.0.0.RELEASE</version>
                 <configuration>
-                    <mainClass>com.coupang.scm.sop.automation.SOPAutomationApplication</mainClass>
+                    <mainClass>org.ifzen</mainClass>
                     <layout>ZIP</layout>
                     <folders>
                         <folder>${basedir}/conf/resources</folder>
@@ -257,7 +257,7 @@
                         <versionTagPrefix>R-</versionTagPrefix>
                     </flowInitContext>
                     <noDeploy>true</noDeploy>
-                    <scmCommentPrefix>[MAUI-457]</scmCommentPrefix>
+                    <scmCommentPrefix>[TICKET-NO.]</scmCommentPrefix>
                 </configuration>
             </plugin>
         </plugins>
