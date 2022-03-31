@@ -15,7 +15,7 @@
         <!--spring  -->
         <spring-loaded.version>1.2.8.RELEASE</spring-loaded.version>
         <spring.batis.version>1.3.2</spring.batis.version>
-        <spring-boot.version>2.0.0.RELEASE</spring-boot.version>
+        <spring-boot.version>2.5.12</spring-boot.version>
         <!--spring  -->
         <lombok.version>1.16.20</lombok.version>
         <guava.version>14.0.1</guava.version>
