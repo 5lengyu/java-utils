@@ -37,7 +37,7 @@
         <!--  commons-httpclient/commons-httpclient-->
         <!-- jdbc driver-->
         <mysql-driver.version>5.1.6</mysql-driver.version>
-        <redshift-jdbc42.version>1.2.10.1009</redshift-jdbc42.version>
+        <redshift-jdbc42.version>2.1.0.8</redshift-jdbc42.version>
         <druid.version>1.0.29</druid.version>
         <!-- jdbc driver-->
         <fastjson.version>1.2.47</fastjson.version>
